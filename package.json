@@ -1,15 +1,15 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Abdulhakeem Mustapha is a Creative and result-oriented Software Engineer with over 6 years of experience building amazing web and mobile applications, coordinating cross-functional teams and easily communicating complex technical details to non-technical stakeholders",
-  "author": "Abdulhakeem Mustapha",
+  "description": "I'm creative and self-motivated software developer, an open-source hobbyist, and a great team player with experience leading and or co-leading tech communities in campus. I love working with creative and awesome people to create great softwares and solutions",
+  "author": "Ibrahim Abdullahi Aliyu",
   "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "nuxt generate && surge dist https://amustapha.com"
+    "deploy": "nuxt generate"
   },
   "dependencies": {
     "nuxt": "^2.0.0",

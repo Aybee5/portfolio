@@ -5,7 +5,7 @@
     <timeline/>
     <links title="Click your favorite medium to reach me below" :links="contacts"/>
     <education/>
-    <references/>
+    <!-- <references/> -->
     <projects/>
     <links title="What I do in my spare time" :links="hobbies"/>
   </div>
@@ -17,13 +17,13 @@
   import Links from "~/components/Links/index.vue";
   import Timeline from "~/components/Timeline/index.vue";
   import Education from "~/components/Education/index.vue";
-  import References from "~/components/References/index.vue";
+  // import References from "~/components/References/index.vue";
   import Projects from "~/components/Projects/index.vue";
 
   export default {
     components: {
       Projects,
-      References,
+      // References,
       Education,
       Timeline,
       Links,
@@ -103,23 +103,23 @@
             icon: 'icon-netflix',
             text: 'Movies'
           },
-          {
-            icon: 'icon-hashnode',
-            text: 'Blog',
-            target: 'https://blog.amustapha.com'
-          },
+          // {
+          //   icon: 'icon-hashnode',
+          //   text: 'Blog',
+          //   target: ''
+          // },
           {
             icon: 'icon-udemy',
             text: 'Learning'
           },
-          {
-            icon: 'icon-ycombinator',
-            text: 'Startup School'
-          },
-          {
-            icon: 'icon-stackoverflow',
-            text: 'Support others'
-          }
+          // {
+          //   icon: 'icon-ycombinator',
+          //   text: 'Startup School'
+          // },
+          // {
+          //   icon: 'icon-stackoverflow',
+          //   text: 'Support others'
+          // }
         ],
         contacts: [
           {
@@ -142,11 +142,11 @@
             text: 'Github',
             target: 'https://github.com/aybee5'
           },
-          {
-            icon: 'icon-express-js',
-            text: 'Medium',
-            target: 'https://medium.com/@_amustapha'
-          },
+          // {
+          //   icon: 'icon-dev-dot-to',
+          //   text: 'DEV',
+          //   target: 'https://medium.com/@_amustapha'
+          // },
         ]
       }
     }

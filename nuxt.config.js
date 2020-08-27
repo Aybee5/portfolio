@@ -17,11 +17,11 @@ export default {
         hid: 'keywords',
         name: 'keywords',
         content: ['Ibrahim', 'Ibrahim Abdullahi Aliyu', 'Hooli', 'Hooli Consults', ' Hooli Technologies Nigeria Limited', 'OfflineFirst', 'CouchDB',
-          'Nigerian Developer', 'Vue Developer', 'Python Developer', 'Software Engineer', 'Software Developer', 'aybee', 'offline', 'pwa']
+          'Nigerian Developer', 'Vue Developer', 'JavaScript Developer', 'Software Engineer', 'Software Developer', 'aybee', 'offline', 'pwa']
       }
     ],
     link: [
-      {rel: 'icon', type: 'image/x-icon', href: '/pic-favicon.jpg'}
+      {rel: 'icon', type: 'image/x-icon', href: '/my-favicon.ico'}
     ]
   },
   /*
