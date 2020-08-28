@@ -51,6 +51,8 @@
     }
 </script>
 
-<style scoped>
-
+<style>
+    .card {
+        height: 100%;
+    }
 </style>
