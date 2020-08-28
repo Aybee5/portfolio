@@ -16,10 +16,10 @@
         Hire Me
       </a>
       <div class="lnks">
-        <a href="mailto:ibrahiimaa05@gmail.com" class="text-light hide-md" rel="noopener">
+        <a href="mailto:ibrahiimaa05@gmail.com" class="text-light" rel="noopener">
           ibrahiimaa05@gmail.com
         </a>
-        <a href="tel:+2348139349936" class="text-light">+234 813 934 9336</a>
+        <a href="tel:+2348139349936" class="text-light  hide-md">+234 813 934 9336</a>
       </div>
     </div>
 
