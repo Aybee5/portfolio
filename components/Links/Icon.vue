@@ -1,7 +1,7 @@
 <template>
     <div class="column col-xl-2 col-lg-2 col-md-3 col-sm-4 col-xs-6 p-2 my-2">
-        <div class="container p-2 my-2">
-            <span :class="` icon ${link.icon} ${extra} `" @click="open(link.target)"></span>
+        <div class="container p-2 my-2" @click="open(link.target)">
+            <span :class="`icon ${link.icon} ${extra}`"></span>
             <span>{{link.text}}</span>
         </div>
 
