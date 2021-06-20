@@ -125,7 +125,7 @@
           {
             icon: 'icon-gmail',
             text: 'Email',
-            target: 'mailto:ibrahiimaa05@gmail.com?body=Hi Ibrahim, '
+            target: 'mailto:ibrahimabdul050@gmail.com?body=Hi Ibrahim, '
           },
           {
             icon: 'icon-twitter',
