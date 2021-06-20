@@ -6,18 +6,18 @@
       <p class="my-about front mb-2 pb-2">I'm creative and self-motivated software developer, an open-source hobbyist, and a great team player with experience leading and or co-leading tech communities in campus. I love working with creative and awesome people to create great softwares and solutions </p>
       <p class="text-warning text-large text-bold my-about">I'm looking for remote opportunities to join a diverse team building
         an awesome product. I'm open to fulltime, contract or freelance engagement.</p>
-      <a href="https://drive.google.com/file/d/1CZUfch57hSJ6XewEa-5dTYAWiPO9AoXj/view?usp=sharing"
+      <a href="https://docs.google.com/document/d/1v53a_qIHBlc4QKJeLXkkCIT_2j_qm6QFxR1Y8Hp8IbE/edit?usp=sharing"
          target="_blank"
          rel="noreferrer"
          class="btn mt-2 text-uppercase text-bold bg-dark btn-primary">Checkout my resume</a>
 
-      <a href="mailto:ibrahiimaa05@gmail.com?subject=I've a Project for you&body=Hi Ibrahim,"
+      <a href="mailto:ibragimabdul050@gmail.com?subject=I've a Project for you&body=Hi Ibrahim,"
          class="btn mt-2 text-bold mx-2 text-uppercase" target="_blank" rel="noopener">
         Hire Me
       </a>
       <div class="lnks">
-        <a href="mailto:ibrahiimaa05@gmail.com" class="text-light" rel="noopener">
-          ibrahiimaa05@gmail.com
+        <a href="mailto:ibragimabdul050@gmail.com" class="text-light" rel="noopener">
+          ibragimabdul050@gmail.com
         </a>
         <a href="tel:+2348139349936" class="text-light  hide-md">+234 813 934 9336</a>
       </div>
