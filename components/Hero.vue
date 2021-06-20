@@ -11,13 +11,13 @@
          rel="noreferrer"
          class="btn mt-2 text-uppercase text-bold bg-dark btn-primary">Checkout my resume</a>
 
-      <a href="mailto:ibragimabdul050@gmail.com?subject=I've a Project for you&body=Hi Ibrahim,"
+      <a href="mailto:ibrahimabdul050@gmail.com?subject=I've a Project for you&body=Hi Ibrahim,"
          class="btn mt-2 text-bold mx-2 text-uppercase" target="_blank" rel="noopener">
         Hire Me
       </a>
       <div class="lnks">
-        <a href="mailto:ibragimabdul050@gmail.com" class="text-light" rel="noopener">
-          ibragimabdul050@gmail.com
+        <a href="mailto:ibrahimabdul050@gmail.com" class="text-light" rel="noopener">
+          ibrahimabdul050@gmail.com
         </a>
         <a href="tel:+2348139349936" class="text-light  hide-md">+234 813 934 9336</a>
       </div>
