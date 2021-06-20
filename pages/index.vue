@@ -37,10 +37,10 @@
             icon: 'icon-python',
             text: 'Python'
           },
-          // {
-          //   icon: 'icon-django',
-          //   text: 'Django'
-          // },
+          {
+            icon: 'icon-django',
+            text: 'Django'
+          },
           {
             icon: 'icon-javascript',
             text: 'Javascript'
