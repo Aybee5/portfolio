@@ -6,7 +6,7 @@
         :latest="true"
         company="Hooli Technologies Nigeria Limited"
         role="Software Developer"
-        dates="December, 2019 - Present"
+        dates="September, 2019 - Present"
       >
         As a Software Developer, I:
         <ul>
@@ -19,7 +19,7 @@
       <single
         company="Hooli Consults"
         role="Intern"
-        dates="April, 2019 - December, 2019"
+        dates="March, 2019 - September, 2019"
       >
         As an intern, I:
         <ul>
