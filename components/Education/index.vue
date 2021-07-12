@@ -3,14 +3,14 @@
         <h2 class="text-bold text-uppercase text-center">Education</h2>
         <div class="timeline p-2">
             <single :latest="true" company="Bayero University" role="B. Sc., Computer Science"
-                    dates="November, 2016 - Ongoing">
+                    dates="November, 2016 - July, 2021">
                 <ul>
-                    <!-- <li>
-                        Recipient of "Most Innovative Student" Award.
+                    <li>
+                        Recipient of "Most Dedicated Student" Award.
                     </li>
                     <li>
-                        Graduated with a 4.15 GPA.
-                    </li> -->
+                        Graduand with a 4.34 CGPA.
+                    </li>
 
                 </ul>
             </single>
