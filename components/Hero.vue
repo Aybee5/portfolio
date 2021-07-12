@@ -16,6 +16,9 @@
         Hire Me
       </a>
       <div class="lnks">
+        <a href="https://blog.aybee.codes" class="text-light" rel="noopener">
+          My Blog
+        </a>
         <a href="mailto:ibrahimabdul050@gmail.com" class="text-light" rel="noopener">
           ibrahimabdul050@gmail.com
         </a>
