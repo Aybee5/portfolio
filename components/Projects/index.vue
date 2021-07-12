@@ -46,6 +46,7 @@
                     {title:'Remindo', link: 'https://remindo.netlify.app', summary: 'An interactive task management software', description: 'Building an task management(todo-like) software with the power of PWA and Notification API', icons: ['icon-vue-dot-js', 'icon-couchdb-icon', 'icon-googlecloud' ]},
                     {title:'Pipersoft', link: 'https://piper.com.ng', summary: 'Bookkeeping & Inventory management software', description: 'Testing software and reports back issues and bugs to improve software performance', icons: ['icon-django', 'icon-vue-dot-js', 'icon-couchdb-icon']},
                     {title:' JSON { BIN } IT!', link: 'https://jsonbin.it', summary: 'A new way to store JSON on the fly', description: 'Adds dark theme to the app and makes it possible for users to toggle between light and dark theme.', icons: ['icon-django', 'icon-vue-dot-js', 'icon-couchdb-icon'], oss: true},
+                    {title:' JSON { BIN } IT!', link: 'https://jsonbin.it', summary: 'Lavarel-based school management platform for small and medium institutions', description: 'Using AJAX request, makes it possible for instructor to delete contacts on students.', icons: ['icon-django', 'icon-vue-dot-js', 'icon-couchdb-icon'], oss: true},
                     
                 ]
             }
