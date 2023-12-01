@@ -46,7 +46,7 @@ onMounted(() => {
     if (prevScrollPos > currentScrollPos) {
       navbar.value!.style.top = "0";
     } else {
-      navbar.value!.style.top = "-70px";
+      navbar.value!.style.top = "-75px";
     }
     prevScrollPos = currentScrollPos;
   });

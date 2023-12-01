@@ -1,5 +1,5 @@
 <template>
-  <div class="container md:w-4/5">
+  <div class="container md:w-4/5 my-6">
     <UiHeading> Career Timeline </UiHeading>
     <ol class="relative border-s border-tertiary flex flex-col gap-10 pb-6">
       <li v-for="timeline in timelines" class="ms-4">
@@ -12,7 +12,7 @@
           class="absolute h-6 w-6 text-primary bg-gray-200 rounded-full -start-3"
         />
         <div class="flex flex-col md:flex-row mb-2 justify-between">
-          <h3 class="text-xl font-semibold text-primary mb-2">
+          <h3 class="text-lg md:text-xl font-medium text-primary mb-2">
             {{ timeline.role }} at {{ timeline.company }}
           </h3>
           <time class="text-secondary italic">{{ timeline.date }}</time>
@@ -44,7 +44,7 @@ const timelines: {
   current?: boolean;
 }[] = [
   {
-    role: "Senior Frontend Developer",
+    role: "Senior Frontend Engineer",
     company: "Estate Intel",
     date: "January, 2022 - Present",
     summaries: [
@@ -77,7 +77,7 @@ const timelines: {
       `Delivered comprehensive customer support, effectively addressing client inquiries and resolving issues, while also conducting in-depth 
       training sessions for new clients, ensuring they are fully acquainted with the company's products and services.`,
       `Collaborated with other developers and product managers to implement a REST-API for an application `,
-      `Contributed dozens of features to Pipersoft (piper.com.ng) an offline-first inventory management software, spearheaded research to 
+      `Contributed dozens of features to <a href="https://piper.com.ng" target="_blank" class='text-blue-700'>Pipersoft</a> an offline-first inventory management software, spearheaded research to 
       capture customer unique use cases and implement new features.`,
     ],
   },

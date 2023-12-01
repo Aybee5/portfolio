@@ -3,7 +3,7 @@
     <UiHeading>Some Projects I worked on</UiHeading>
     <div class="flex flex-wrap gap-5">
       <div
-        class="border border-solid border-tertiary p-4 rounded-md flex-1 min-w-[340px]"
+        class="border border-solid border-tertiary p-4 rounded-md flex-1 min-w-[340px] hover:shadow-lg transition-all duration-300 ease-in-out"
         v-for="project in projects"
       >
         <div class="flex gap-2 mb-1 items-center">
@@ -11,7 +11,7 @@
           <a :href="project.link" v-if="project.link" target="_blank" rel="noopener">
             <Icon name="icon-park-outline:share" class="text-blue-700" />
           </a>
-          <span id="oss" v-if="project.oss">OSS Contribution</span>
+          <span class="rounded-lg py-0.5 px-1.5 text-primary bg-tertiary bg-opacity-40" v-if="project.oss">OSS Contribution</span>
         </div>
         <p class="text-tertiary italic text-sm mb-2">
           {{ project.summary }}
@@ -181,6 +181,10 @@ const technologies = {
     name: "HTML",
     icon: "logos:html-5",
   },
+  git: {
+    name: "Git",
+    icon: "logos:git-icon",
+  },
 };
 // the rest of the technologies that are not used in the projects
 const otherTechnologies = computed(() => {
@@ -192,10 +196,5 @@ const otherTechnologies = computed(() => {
 </script>
 
 <style scoped>
-#oss {
-  background-color: #5755d9;
-  font-size: 14px;
-  margin: 6px;
-  @apply rounded-lg py-0.5 px-2 text-white;
-}
+
 </style>
