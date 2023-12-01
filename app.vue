@@ -2,8 +2,8 @@
   <div>
     <NavBar />
     <Hero />
-    <About />
     <Timeline />
+    <Testimonials />
     <Projects />
     <Social />
     <Footer />
