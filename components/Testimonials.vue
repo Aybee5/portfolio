@@ -56,9 +56,8 @@ const testimonials = [
   {
     name: "Abdulhakeem Mustapha",
     title: "CTO, Hooli Technologies | Senior Software Engineer, Yellow Card",
-    testimonial: `At Hooli, Ibrahim Abdullahi made exceptional contributions, instrumental to our growth. 
-     His dedication throughout his time at Hooli set a benchmark for excellence, blending hard work with significant personal development.
-     During his tenure, Ibrahim's role was pivotal. His journey at Hooli exemplified the power of commitment, dedication and inspiring to the team.`,
+    testimonial: `Seeing Ibrahim join our team as an intern and gradually make his way to earn promotions and switch roles was a tremendous  testament to his work ethic and quality.
+ While at Hooli, Ibrahim has been put in charge of spearheading new projects and initiatives, maintaining legacy projects, contributing to ongoing projects and troubleshooting bugs and administering patches. In all his roles, Ibrahim has demonstrated quality his ability to not just deliver coincise usable and readable code but also to solve problems`,
   },
   // {
   //   name: "Olaitan Odulaga",
