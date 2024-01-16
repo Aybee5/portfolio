@@ -2,7 +2,7 @@
   <nav ref="navbar" class="bg-primary text-white navbar z-10">
     <div class="md:w-4/5 flex flex-wrap items-center justify-between mx-auto p-4">
       <div class="flex items-center gap-4">
-        <a href="mailto:ibrahimabdul050@gmail.com">
+        <a href="mailto:ibrahimabdul050@gmail.com" target="_blank">
           <div class="flex items-center gap-0.5">
             <Icon name="material-symbols:mail-outline-rounded" />
             <span class="md:hidden">Email</span>

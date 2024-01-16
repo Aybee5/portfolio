@@ -20,26 +20,51 @@
         <i class="text-xl md:text-3xl"> Based in Kano, Nigeria</i>
       </div>
 
-      <div class="md:w-4/5 mt-4 text-justify text-white text-sm md:text-base space-y-1 opacity-75 hover:opacity-90 transition-all">
-        <p>
-          I am passionate about creating interactive, user-friendly, and accessible
-          interfaces that offer a top-notch user experience. Driven by ideas that have a
-          positive impact, I enjoy the process of turning these ideas into successful
-          products. My commitment to excellence is reflected in the range of products I
-          have contributed.
-        </p>
-        <p>
-          With 5 years of experience and a degree in Computer Science, I have developed a
-          rich blend of soft and technical skills. These skills have greatly refined my
-          approach to building solutions. I view every project, including open source
-          contributions, as an opportunity to make a meaningful impact and learn new
-          skills. I believe in diverse methods of problem-solving and always choose the
-          most suitable tools for each project.
-        </p>
-        <p>
-          Outside coding, I enjoy reading, gazzing at the stars, playing chess and watching sci-fi movies.
-        </p>
-      </div>
+      <ul class="md:w-4/5 mt-4 text-justify text-white text-sm md:text-base space-y-1">
+        <li class="opacity-80 hover:opacity-100 transition-all w-max">
+          <a
+            href="https://certificates.dev/c/9b19523d-03b3-4b84-bf21-328526fe42fa"
+            class="text-green-400"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Certified Vue.js Developer
+            <Icon name="heroicons-outline:external-link" />
+          </a>
+        </li>
+        <li class="opacity-75 hover:opacity-100 transition-all w-max">
+          5 years experience as a Software Engineer
+        </li>
+        <li class="opacity-75 hover:opacity-100 transition-all w-max">
+          Most Used Tech: Javascript, Typescript, Vue, Nuxt and Ubuntu
+        </li>
+        <li class="opacity-75 hover:opacity-100 transition-all w-max">
+          Loves building great solutions using Technology
+        </li>
+        <li class="opacity-75 hover:opacity-100 transition-all w-max">
+          Graduate of Computer Science with 4.46/5.00 GCPA
+        </li>
+        <li class="opacity-75 hover:opacity-100 transition-all w-max">
+          Open Source Enthusiast
+        </li>
+        <li class="flex gap-3">
+          <a
+            href="mailto:ibrahimabdul050@gmail.com?subject=Job Opportunity&body=Hi Ibrahim,"
+            target="_blank"
+            class="text-green-400 opacity-80 hover:opacity-100 transition-all w-max"
+          >
+            Contact Me
+          </a>
+          |
+          <a
+            href="https://docs.google.com/document/d/16YKdLbOiIF89sVYVPnr2BYmiiC7u537mf7rGsMgI4Vg/edit?usp=sharing"
+            target="_blank"
+            class="text-green-400 opacity-80 hover:opacity-100 transition-all w-max"
+          >
+            Complete Resume
+          </a>
+        </li>
+      </ul>
     </div>
   </div>
 </template>
