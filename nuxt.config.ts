@@ -4,12 +4,12 @@ export default defineNuxtConfig({
   modules: ["@nuxtjs/tailwindcss", "nuxt-icon", "nuxt-clarity-analytics"],
   app: {
     head: {
-      title: "Ibrahim Abdullahi Aliyu",
+      title: "Ibrahim Abdullahi Aliyu - Software Engineer in Nigeria",
       meta: [
         {
           name: "description",
           content:
-            "Ibrahim Abdullahi Aliyu is a Software Engineer based in Kano, Nigeria. He is passionate about building products that solve real-world problems.",
+            "Ibrahim Abdullahi Aliyu is a Certified Vue.js Software Engineer based in Kano, Nigeria. He is passionate about building products that solve real-world problems.",
         },
         {
           name: "keywords",
@@ -23,7 +23,7 @@ export default defineNuxtConfig({
         {
           property: "og:description",
           content:
-            "Ibrahim Abdullahi Aliyu is a Software Engineer based in Kano, Nigeria. He is passionate about building products that solve real-world problems.",
+            "Ibrahim Abdullahi Aliyu is a Certified Vue.js Software Engineer based in Kano, Nigeria. He is passionate about building products that solve real-world problems.",
         },
         {
           name: "viewport",
@@ -40,7 +40,7 @@ export default defineNuxtConfig({
         {
           name: "twitter:description",
           content:
-            "Ibrahim Abdullahi Aliyu is a Software Engineer based in Kano, Nigeria. He is passionate about building products that solve real-world problems.",
+            "Ibrahim Abdullahi Aliyu is a Certified Vue.js Software Engineer based in Kano, Nigeria. He is passionate about building products that solve real-world problems.",
         },
         {
           name: "twitter:image",

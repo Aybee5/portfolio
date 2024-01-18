@@ -13,7 +13,7 @@
       <span class="text-3xl md:text-6xl"> Hi 👋🏾, </span>
       <h1 class="py-2">
         <span class="text-4xl">I'm</span>
-        <span class="text-4xl md:text-8xl font-bold">Ibrahim Abdullahi Aliyu</span>
+        <span class="text-4xl md:text-8xl font-bold">Ibrahim Abdullahi</span>
       </h1>
       <div class="flex flex-col items-end">
         <span class="text-3xl md:text-6xl font-bold">Software Engineer </span>
@@ -21,7 +21,7 @@
       </div>
 
       <ul class="md:w-4/5 mt-4 text-justify text-white text-sm md:text-base space-y-1">
-        <li class="opacity-80 hover:opacity-100 transition-all w-max">
+        <li class="opacity-80 hover:opacity-100 transition-all w-fit">
           <a
             href="https://certificates.dev/c/9b19523d-03b3-4b84-bf21-328526fe42fa"
             class="text-green-400"
@@ -32,26 +32,26 @@
             <Icon name="heroicons-outline:external-link" />
           </a>
         </li>
-        <li class="opacity-75 hover:opacity-100 transition-all w-max">
+        <li class="opacity-75 hover:opacity-100 transition-all w-fit">
           5 years experience as a Software Engineer
         </li>
-        <li class="opacity-75 hover:opacity-100 transition-all w-max">
+        <li class="opacity-75 hover:opacity-100 transition-all w-fit">
           Most Used Tech: Javascript, Typescript, Vue, Nuxt and Ubuntu
         </li>
-        <li class="opacity-75 hover:opacity-100 transition-all w-max">
+        <li class="opacity-75 hover:opacity-100 transition-all w-fit">
           Loves building great solutions using Technology
         </li>
-        <li class="opacity-75 hover:opacity-100 transition-all w-max">
+        <li class="opacity-75 hover:opacity-100 transition-all w-fit">
           Graduate of Computer Science with 4.46/5.00 GCPA
         </li>
-        <li class="opacity-75 hover:opacity-100 transition-all w-max">
+        <li class="opacity-75 hover:opacity-100 transition-all w-fit">
           Open Source Enthusiast
         </li>
         <li class="flex gap-3">
           <a
             href="mailto:ibrahimabdul050@gmail.com?subject=Job Opportunity&body=Hi Ibrahim,"
             target="_blank"
-            class="text-green-400 opacity-80 hover:opacity-100 transition-all w-max"
+            class="text-green-400 opacity-80 hover:opacity-100 transition-all w-fit"
           >
             Contact Me
           </a>
@@ -59,7 +59,7 @@
           <a
             href="https://docs.google.com/document/d/16YKdLbOiIF89sVYVPnr2BYmiiC7u537mf7rGsMgI4Vg/edit?usp=sharing"
             target="_blank"
-            class="text-green-400 opacity-80 hover:opacity-100 transition-all w-max"
+            class="text-green-400 opacity-80 hover:opacity-100 transition-all w-fit"
           >
             Complete Resume
           </a>
